@@ -16,5 +16,5 @@ The *ultimate goal* is to understand customer behavior and assign tailored *perk
 - [TravelTide SQL Code: Features calculations](https://github.com/armandaslid/traveltide_mastery_project/blob/main/TravelTide_Files/TravelTide_SQL_Code.sql)
 - [Final Features table as CSV file](https://github.com/armandaslid/traveltide_mastery_project/blob/main/TravelTide_Files/TravelTide_Final_Features_Table.csv)
 - [Google Slide Presentation](https://docs.google.com/presentation/d/1AQuSZjDRThOXOOc06L_Ikgg4cf_BqLpGuCJcSniTzV8/edit?usp=sharing)
-- [TravelTide Dashboard used in PowerPoint presentation (Tableau Public)](empty)
+- [TravelTide Dashboard used in PowerPoint presentation (Tableau Public)](https://public.tableau.com/app/profile/armandas.lidzius/viz/TravelTide_17328156085890/TravelTide)
 - [Video Presentation of a TravelTide Project](https://www.loom.com/share/d40f96e37725442db0ee78730560bbc5?sid=6f61c9c3-bd6f-4e49-983c-a72fee69358e)
